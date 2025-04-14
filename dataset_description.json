@@ -31,7 +31,7 @@
             "Version": "8.0"
         }
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds006036.v1.0.2",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006036.v1.0.3",
     "HowToAcknowledge": "Please cite this dataset, and the complementary data descriptor paper (still not published)",
     "EthicsApprovals": [
         "The study was conducted in accordance with the Declaration of Helsinki and approved by the Scientific and Ethics Committee of AHEPA University Hospital, Aristotle University of Thessaloniki, under protocol number 142/12-04-2023."
