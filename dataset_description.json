@@ -19,7 +19,9 @@
         "Pantelis Angelidis"
     ],
     "ReferencesAndLinks": [
-        "https://openneuro.org/datasets/ds004504"
+        "https://openneuro.org/datasets/ds004504",
+        "Miltiadous, A., Tzimourta, K. D., Afrantou, T., Ioannidis, P., Grigoriadis, N., Tsalikakis, D. G., Angelidis, P., Tsipouras, M. G., Glavas, E., Giannakeas, N., & Tzallas, A. T. (2023). A Dataset of Scalp EEG Recordings of Alzheimer’s Disease, Frontotemporal Dementia and Healthy Subjects from Routine EEG. Data, 8(6), 95. doi: 10.3390/data8060095",
+        "Miltiadous, A., Gionanidis, E., Tzimourta, K. D., Giannakeas, N., & Tzallas, A. T. (2023). DICE-net: A Novel Convolution-Transformer Architecture for Alzheimer Detection in EEG Signals. IEEE Access, 1–1. doi: 10.1109/ACCESS.2023.3294618"
     ],
     "BIDSVersion": "1.8.0",
     "HEDVersion": "8.1.0",
